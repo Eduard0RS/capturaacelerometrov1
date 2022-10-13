@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CapturaAcelerometro</string>
+    <string name="dialog_start_game">Está tudo bem com você?</string>
+    <string name="start">Sim</string>
+    <string name="cancel">Não</string>
+    <string name="order_confirmation">Teste</string>
+    <string name="ok">ok</string>
+</resources>
